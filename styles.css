@@ -1,0 +1,23 @@
+img{
+    height: 350px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+.title{
+    background-color: rgba(0, 0, 255, 0.3);
+    text-align: center;
+}
+
+.recipes{
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.desc,
+.ing,
+.steps{
+    background-color: rgba(0, 255, 0, 0.3);
+    text-align: center;
+    color:navy;
+}
